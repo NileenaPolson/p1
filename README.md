@@ -1,2 +1,2 @@
 # p1
-printf("hi");
+hello
